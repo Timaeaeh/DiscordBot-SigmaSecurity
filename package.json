@@ -1,0 +1,23 @@
+{
+  "name": "discordbot-sigmasecurity",
+  "version": "1.0.0",
+  "description": "A discord bot with a verification system that prevents mentally immature users from unsecuring your server.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timaeaeh/DiscordBot-SigmaSecurity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timaeaeh/DiscordBot-SigmaSecurity/issues"
+  },
+  "homepage": "https://github.com/Timaeaeh/DiscordBot-SigmaSecurity#readme"
+}
